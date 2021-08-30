@@ -11,8 +11,6 @@ My passion lies in designing web pages and communicating complex ideas to techni
 non-technical stakeholders.
 
 
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gillgurvijay01)
-
 
 ## 🛠 Skills
 
@@ -62,5 +60,8 @@ non-technical stakeholders.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gillgurvijay01)
 
 [![Github](https://img.shields.io/github/followers/gillgurvijay01?style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fgillgurvijay01)
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gillgurvijay01)
+
 
   
