@@ -11,8 +11,47 @@ My passion lies in designing web pages and communicating complex ideas to techni
 non-technical stakeholders.
 
 
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gillgurvijay01)
+
+
 ## 🛠 Skills
-Javascript, HTML, CSS, PHP SQL ...
+
+  [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
+
+
+  [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
+
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+ 
+
+  [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+
+  [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+
+  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+  
+
+  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+
+  [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+
+
+
+## 📊 Language Statistics
+
+  [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gillgurvijay01&theme=blue-green)]()
+
+  
+ ## 📊 Github Statistics
+ 
+  [![Stats](https://github-readme-stats.vercel.app/api?username=gillgurvijay01&theme=blue-green
+)]()
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gillgurvijay01
+)]()
+
 
   
 ## 🔗 Links
