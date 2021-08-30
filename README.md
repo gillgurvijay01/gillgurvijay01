@@ -35,6 +35,10 @@ non-technical stakeholders.
 
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 
+## 🏆 Trophies
+
+  
+[![Gurvijay](https://github-profile-trophy.vercel.app/?username=gillgurvijay01&row=1)](https://github.com/gillgurvijay01/github-profile-trophy)
 
 
 ## 📊 Language Statistics
