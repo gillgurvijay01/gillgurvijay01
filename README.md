@@ -44,7 +44,8 @@ non-technical stakeholders.
 
 ## 📊 Language Statistics
 
-  [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gillgurvijay01&theme=blue-green)]()
+ [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gillgurvijay01&theme=blue-green&layout=compact)]()
+
 
   
  ## 📊 Github Statistics
