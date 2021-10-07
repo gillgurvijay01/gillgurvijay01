@@ -1,5 +1,6 @@
 
-# Hi, I'm Gurvijay Singh Gill! 👋
+![Gurvijay_Singh_Gill(1)](https://user-images.githubusercontent.com/67116971/136325536-3286bc5e-2876-4065-b005-1812e61c09bf.png)
+
 
   
 ## 🚀 About Me
