@@ -55,7 +55,7 @@ non-technical stakeholders.
   [![Stats](https://github-readme-stats.vercel.app/api?username=gillgurvijay01&theme=blue-green
 )]()
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gillgurvijay01&theme=blue-black
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gillgurvijay01&theme=blue-green
 )]()
 
 
