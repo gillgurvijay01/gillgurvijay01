@@ -12,8 +12,7 @@ specialalize MERN stack developement.
 My passion lies in designing web pages and communicating complex ideas to technical and
 non-technical stakeholders.
 
-My Favorite code editor is [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-
+#### [Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ## 🛠 Skills
