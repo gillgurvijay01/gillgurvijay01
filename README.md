@@ -20,21 +20,21 @@ non-technical stakeholders.
 ## 🏆 Trophies
 
   
-[![Gurvijay](https://github-profile-trophy.vercel.app/?username=gillgurvijay01&row=1)](https://github.com/gillgurvijay01/github-profile-trophy)
+[![Gurvijay](https://github-profile-trophy.vercel.app/?username=gillgurvijay01&row=1&theme=algolia)](https://github.com/gillgurvijay01/github-profile-trophy)
 
 
 ## 📊 Language Statistics
 
- [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gillgurvijay01&theme=blue-green&layout=compact)]()
+ [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gillgurvijay01&theme=algolia&layout=compact)]()
 
 
   
  ## 📊 Github Statistics
  
-  [![Stats](https://github-readme-stats.vercel.app/api?username=gillgurvijay01&theme=blue-green
+  [![Stats](https://github-readme-stats.vercel.app/api?username=gillgurvijay01&theme=algolia
 )]()
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gillgurvijay01&theme=blue-green
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gillgurvijay01&theme=algolia
 )]()
 
 
