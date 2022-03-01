@@ -12,7 +12,7 @@ specialalize MERN stack developement.
 My passion lies in designing web pages and communicating complex ideas to technical and
 non-technical stakeholders.
 
-
+![](https://komarev.com/ghpvc/?username=gillgurvijay01&label=Profile%20views&color=0e75b6&style=flat)
 ## 🛠 Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]() [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]() [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]() [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]() [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]() [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]() [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]() 
