@@ -36,8 +36,6 @@ non-technical stakeholders.
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gillgurvijay01&theme=algolia
 )]()
-
-
   
 ## 🔗 Links
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gillgurvijay01)
@@ -46,5 +44,9 @@ non-technical stakeholders.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gillgurvijay01)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gillgurvijay01)
 
+ 
 
-  
+## ₿ Crypto
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x57964c7b50e604365cce7fd3c230218c3b4abebb)](https://en.cryptobadges.io/donate/0x57964c7b50e604365cce7fd3c230218c3b4abebb)
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/bc1qxdmjmrw75qtxgskg7s5q8w59tfh5sp4jw64u2g)](https://en.cryptobadges.io/donate/bc1qxdmjmrw75qtxgskg7s5q8w59tfh5sp4jw64u2g)
+
