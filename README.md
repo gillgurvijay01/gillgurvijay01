@@ -48,5 +48,5 @@ non-technical stakeholders.
  
 
 ## ₿ Crypto
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x57964c7b50e604365cce7fd3c230218c3b4abebb)](https://en.cryptobadges.io/donate/0x57964c7b50e604365cce7fd3c230218c3b4abebb) [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/bc1qxdmjmrw75qtxgskg7s5q8w59tfh5sp4jw64u2g)](https://en.cryptobadges.io/donate/bc1qxdmjmrw75qtxgskg7s5q8w59tfh5sp4jw64u2g)
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x57964c7b50e604365cce7fd3c230218c3b4abebb)](https://en.cryptobadges.io/donate/0x57964c7b50e604365cce7fd3c230218c3b4abebb)[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/bc1qxdmjmrw75qtxgskg7s5q8w59tfh5sp4jw64u2g)](https://en.cryptobadges.io/donate/bc1qxdmjmrw75qtxgskg7s5q8w59tfh5sp4jw64u2g)
 
