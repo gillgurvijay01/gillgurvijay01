@@ -5,12 +5,9 @@
 
   
 ## 🚀 About Me
-I'm a full stack developer, residing in Punjab, India. Graduating in 2022 in
-Bachelors of Technology Computer Science from Chandigarh, India. Targeting to 
-specialalize MERN stack developement.
+I'm a full-stack developer currently based in Milwaukee, Wisconsin. I'm pursuing a Master of Science in Computer Science and am expected to graduate in 2025. My goal is to specialize in MERN stack development.
 
-My passion lies in designing web pages and communicating complex ideas to technical and
-non-technical stakeholders.
+I'm passionate about designing web pages and effectively communicating complex ideas to both technical and non-technical stakeholders.
 
 ![](https://komarev.com/ghpvc/?username=gillgurvijay01&label=Profile%20views&color=0e75b6&style=flat)
 ## 🛠 Skills
@@ -46,7 +43,4 @@ non-technical stakeholders.
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gillgurvijay01)
 
  
-
-## ₿ Crypto
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x57964c7b50e604365cce7fd3c230218c3b4abebb)](https://en.cryptobadges.io/donate/0x57964c7b50e604365cce7fd3c230218c3b4abebb)[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/bc1qxdmjmrw75qtxgskg7s5q8w59tfh5sp4jw64u2g)](https://en.cryptobadges.io/donate/bc1qxdmjmrw75qtxgskg7s5q8w59tfh5sp4jw64u2g)
 
